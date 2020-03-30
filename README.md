@@ -1,4 +1,5 @@
-## README Project 3 | r/AmItheAsshole | Jena Brentano
+## Am I the Asshole? 
+## a data scraping and NLP project by Jena Brentano
 
 ### Problem Statement
 
